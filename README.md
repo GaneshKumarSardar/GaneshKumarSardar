@@ -1,97 +1,39 @@
 <h1 align="center">Hi 👋, I'm Ganesh Kumar Sardar</h1>
-<h3 align="center">AI & ML Enthusiast | Full Stack Learner | Problem Solver</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding" />
+<h3 align="center">AI & Machine Learning Enthusiast | Software Developer | Problem Solver</h3>
 
 ---
 
-## 🔍 About Me
-
-- 🎓 B.Tech Computer Science student (2022–2026) @ Kalasalingam Academy of Research and Education  
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Real-world problem solving  
-- 💡 Strong foundation in Data Structures, Algorithms & Database Systems  
-- 🚀 Interested in building scalable AI-powered applications  
-- 📚 Continuously learning and exploring new technologies  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-- Java, Python, C++, C  
-
-### 🌐 Web & Development
-- Web Development (Frontend + Basic Backend)
-- WordPress Development  
-
-### 🧠 Core Concepts
-- Data Structures & Algorithms  
-- Database Management (SQL)  
-- UI/UX Design  
-
-### 🧰 Tools & Platforms
-- GitHub  
-- MATLAB  
-- Replit  
-
----
-
-## 🚀 Projects
-
-### 🔹 Voice to Sign Language Conversion
-- Developed a real-time system to convert speech into sign language  
-- Focused on accessibility and real-world usability  
-
-### 🔹 AI Voice Assistant (Python)
-- Built using speech recognition & NLP  
-- Integrated APIs for search and weather updates  
-
-### 🔹 Parking Management System
-- Secure login system with real-time slot tracking  
-- Designed user-friendly interface  
-
-### 🔹 Smart Shield Helmet
-- Deep learning-based accident detection system  
-- Sends alerts for rider safety  
-
-### 🔹 Airline Review Analysis
-- Analyzed customer feedback to improve services  
-- Used data-driven insights  
-
-### 🔹 Proactive Hygiene Monitor
-- Real-time monitoring system for cleanliness  
+## 🚀 Key Projects
 
 ### 🔹 Sustainable Eco Bricks
-- Developed eco-friendly construction material  
+- Designed and developed eco-friendly construction materials using sustainable resources  
+- Focused on environmental impact reduction and scalable production  
 
 ### 🔹 DentMeds Platform
-- Digital platform for medical & dental supply chain  
+- Built a digital platform for medical & dental supply chain management  
+- Improved accessibility and efficiency for clinics, labs, and healthcare providers  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 First Prize – Project Exhibition (Francis Xavier College, Tirunelveli)  
-- 🥉 Second Runner-up – IBM Model Craft Competition  
-- 🥉 Second Runner-up – IBM Poster Presentation  
-- 🎓 IEEE Computer Society Student Chapter Representative  
+- 🥇 **First Prize** – Project Exhibition (Francis Xavier College, Tirunelveli)  
+- 🥉 **Second Runner-up** – IBM Model Craft Competition  
+- 🥉 **Second Runner-up** – IBM Poster Presentation  
+- 🎓 **IEEE Computer Society Student Chapter Representative**  
 
 ---
 
 ## 📜 Certifications
 
-- Oracle Cloud Infrastructure AI Foundation  
-- Generative AI Study Jam (GDSC KARE)  
-- Basics of Deep Learning – Great Learning  
-- MATLAB Certification  
-- Cybersecurity – Coursera  
-- Soft Skills – NPTEL  
-- DBMS – CodeChef  
-- Flipkart Grid Hackathon (Robotics Challenge)  
+- ☁️ Oracle Cloud Infrastructure – AI Foundation  
+- 🤖 Generative AI Study Jam – GDSC KARE  
+- 🧠 Basics of Deep Learning – Great Learning  
+- 📊 MATLAB Certification  
+- 🔐 Cybersecurity – Coursera  
+- 🗣️ Soft Skills – NPTEL  
+- 🗄️ DBMS – CodeChef  
+- 🏁 Flipkart Grid Hackathon (Robotics Challenge)  
 
 ---
 
@@ -104,26 +46,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=github_dark" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=github_dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshKumarSardar&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshKumarSardar&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-- 📧 Email: ganeshsardar2004@gmail.com  
-- 📱 Mobile: +91-9155543033  
-- 💼 LinkedIn: (Add your link)  
-- 💻 GitHub: (Add your link)  
+<p align="center">
+  📧 <b>Email:</b> ganeshsardar2004@gmail.com &nbsp; | &nbsp;
+  📱 <b>Mobile:</b> +91-9155543033 <br><br>
+  
+  💼 <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a> &nbsp; | &nbsp;
+  💻 <a href="https://github.com/GaneshKumarSardar">GitHub</a>
+</p>
 
 ---
 
-### ⚡ Fun Fact:
-> I build AI systems that solve real-world problems 🚀
+### ⚡ Fun Fact
+> I enjoy building AI-powered solutions that solve real-world problems and create meaningful impact 🚀
