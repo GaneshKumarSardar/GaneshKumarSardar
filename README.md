@@ -97,7 +97,7 @@
   📧 ganeshsardar2004@gmail.com <br>
   📱 +91-9155543033 <br><br>
 
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/ganesh-kumar-sardar-240188252/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
