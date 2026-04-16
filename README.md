@@ -34,8 +34,11 @@
 
 ## 🚀 Featured Projects
 
+🔹 **AI Support Assistant (Hybrid Chatbot System)**  
+→A production-ready AI chatbot combining structured knowledge (FAQ) with generative AI for reliable, scalable customer support.  
+
 🔹 **AI Resume Interview Coach**  
-→ AI-powered resume analysis & interview feedback  
+→ AI-powered resume analysis & interview feedback 
 
 🔹 **Voice to Sign Language Conversion**  
 → Real-time accessibility system  
