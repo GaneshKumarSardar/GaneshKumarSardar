@@ -73,7 +73,7 @@ My primary focus is on transforming advanced AI research and technologies into p
 
 ## ◈ PROFESSIONAL EXPERIENCE
 
-### <img src="https://img.shields.io/badge/AI_ENGINEER-0e75b6?style=flat-square"/> Paytel
+### <img src="https://img.shields.io/badge/AI_ENGINEER-0e75b6?style=flat-square"/> 
 
 **AI Engineering | Generative AI | Agentic AI Infrastructure**
 
