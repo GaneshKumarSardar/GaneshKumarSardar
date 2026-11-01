@@ -36,7 +36,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### AI Engineer | Paytel
+### AI Engineer 
 
 I am an **AI Engineer** passionate about engineering intelligent systems, building Agentic AI applications, and developing production-ready Generative AI solutions.
 
